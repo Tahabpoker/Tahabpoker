@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tahab Poker</h1>
 <h3 align="center">Solving problems with creativity and logic</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tahabpoker&label=Profile%20views&color=0e75b6&style=flat" alt="tahabpoker" /> </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=tahabpoker)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🌱 I’m currently learning **Machine Learning**
 
