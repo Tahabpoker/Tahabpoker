@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tahab Poker</h1>
 <h3 align="center">Solving problems with creativity and logic</h3>
 
-![](https://github-trophies.vercel.app/?username=tahabpoker)
+[![trophy](https://github-trophies.vercel.app/?username=tahabpoker)](https://github.com/lucthienphong1120/github-trophies)
 
 - 🌱 I’m currently learning **Machine Learning**
 
