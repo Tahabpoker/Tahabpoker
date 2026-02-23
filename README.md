@@ -93,7 +93,7 @@ class TahabPoker:
 </div>
 
 ---
-
+<!---
 ## Trophies
 
 <div align="center">
@@ -101,6 +101,7 @@ class TahabPoker:
 [![trophy](https://github-profile-trophy.vercel.app/?username=tahabpoker&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+--->
 
 ---
 
